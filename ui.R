@@ -3,7 +3,7 @@
 library(shiny)
 
 fluidPage(
-    titlePanel("Adverse Events Query to OpenFDA", windowTitle = "Adverse Events Query to OpenFDA"),
+    titlePanel("Adverse Events Query to OpenFDA", windowTitle = "Adverse Events Query to OpenFDA Ilse test"),
     fluidRow(
         column(3,
             br(),
